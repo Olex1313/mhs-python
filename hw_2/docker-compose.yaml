@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  latex_generator:
+    build:
+      context: .
+    volumes:
+      - ./output:/app/generated
+    command: >
+      bash -c "python3 2.2.py /app/Capture-2024-03-12-131754.png --output /app/generated/generated.tex &&
+               pdflatex --output-directory=/app/generated --job-name=/app/generated/generated /app/generated/generated.tex"

@@ -1,0 +1,7 @@
+name: latex_generator_olex1313
+channels:
+  - defaults
+dependencies:
+  - python
+  - setuptools
+  - latex_generator_olex1313
