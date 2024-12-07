@@ -1,0 +1,608 @@
+2024-12-07 23:17:34,220 - Starting integration with 1 workers...
+2024-12-07 23:17:34,220 - Worker processing range: 0 to 10000000
+2024-12-07 23:17:34,882 - Worker finished range: 0 to 10000000
+2024-12-07 23:17:34,882 - Integration complete.
+2024-12-07 23:17:34,887 - Starting integration with 1 workers...
+2024-12-07 23:17:34,920 - Worker processing range: 0 to 10000000
+2024-12-07 23:17:35,588 - Worker finished range: 0 to 10000000
+2024-12-07 23:17:35,594 - Integration complete.
+2024-12-07 23:17:35,594 - Starting integration with 2 workers...
+2024-12-07 23:17:35,594 - Worker processing range: 0 to 5000000
+2024-12-07 23:17:35,601 - Worker processing range: 5000000 to 10000000
+2024-12-07 23:17:36,227 - Worker finished range: 0 to 5000000
+2024-12-07 23:17:36,254 - Worker finished range: 5000000 to 10000000
+2024-12-07 23:17:36,254 - Integration complete.
+2024-12-07 23:17:36,254 - Starting integration with 2 workers...
+2024-12-07 23:17:36,286 - Worker processing range: 0 to 5000000
+2024-12-07 23:17:36,286 - Worker processing range: 5000000 to 10000000
+2024-12-07 23:17:36,608 - Worker finished range: 0 to 5000000
+2024-12-07 23:17:36,639 - Worker finished range: 5000000 to 10000000
+2024-12-07 23:17:36,645 - Integration complete.
+2024-12-07 23:17:36,645 - Starting integration with 3 workers...
+2024-12-07 23:17:36,645 - Worker processing range: 0 to 3333333
+2024-12-07 23:17:36,645 - Worker processing range: 3333333 to 6666666
+2024-12-07 23:17:36,652 - Worker processing range: 6666666 to 10000000
+2024-12-07 23:17:37,262 - Worker finished range: 0 to 3333333
+2024-12-07 23:17:37,298 - Worker finished range: 6666666 to 10000000
+2024-12-07 23:17:37,305 - Worker finished range: 3333333 to 6666666
+2024-12-07 23:17:37,305 - Integration complete.
+2024-12-07 23:17:37,305 - Starting integration with 3 workers...
+2024-12-07 23:17:37,339 - Worker processing range: 0 to 3333333
+2024-12-07 23:17:37,339 - Worker processing range: 3333333 to 6666666
+2024-12-07 23:17:37,339 - Worker processing range: 6666666 to 10000000
+2024-12-07 23:17:37,560 - Worker finished range: 0 to 3333333
+2024-12-07 23:17:37,572 - Worker finished range: 3333333 to 6666666
+2024-12-07 23:17:37,582 - Worker finished range: 6666666 to 10000000
+2024-12-07 23:17:37,591 - Integration complete.
+2024-12-07 23:17:37,591 - Starting integration with 4 workers...
+2024-12-07 23:17:37,591 - Worker processing range: 0 to 2500000
+2024-12-07 23:17:37,597 - Worker processing range: 2500000 to 5000000
+2024-12-07 23:17:37,610 - Worker processing range: 5000000 to 7500000
+2024-12-07 23:17:37,629 - Worker processing range: 7500000 to 10000000
+2024-12-07 23:17:38,190 - Worker finished range: 2500000 to 5000000
+2024-12-07 23:17:38,209 - Worker finished range: 0 to 2500000
+2024-12-07 23:17:38,243 - Worker finished range: 5000000 to 7500000
+2024-12-07 23:17:38,246 - Worker finished range: 7500000 to 10000000
+2024-12-07 23:17:38,247 - Integration complete.
+2024-12-07 23:17:38,247 - Starting integration with 4 workers...
+2024-12-07 23:17:38,281 - Worker processing range: 0 to 2500000
+2024-12-07 23:17:38,281 - Worker processing range: 2500000 to 5000000
+2024-12-07 23:17:38,282 - Worker processing range: 5000000 to 7500000
+2024-12-07 23:17:38,283 - Worker processing range: 7500000 to 10000000
+2024-12-07 23:17:38,448 - Worker finished range: 0 to 2500000
+2024-12-07 23:17:38,448 - Worker finished range: 2500000 to 5000000
+2024-12-07 23:17:38,465 - Worker finished range: 5000000 to 7500000
+2024-12-07 23:17:38,466 - Worker finished range: 7500000 to 10000000
+2024-12-07 23:17:38,474 - Integration complete.
+2024-12-07 23:17:38,474 - Starting integration with 5 workers...
+2024-12-07 23:17:38,474 - Worker processing range: 0 to 2000000
+2024-12-07 23:17:38,474 - Worker processing range: 2000000 to 4000000
+2024-12-07 23:17:38,481 - Worker processing range: 4000000 to 6000000
+2024-12-07 23:17:38,512 - Worker processing range: 6000000 to 8000000
+2024-12-07 23:17:38,531 - Worker processing range: 8000000 to 10000000
+2024-12-07 23:17:38,920 - Worker finished range: 0 to 2000000
+2024-12-07 23:17:39,048 - Worker finished range: 2000000 to 4000000
+2024-12-07 23:17:39,064 - Worker finished range: 4000000 to 6000000
+2024-12-07 23:17:39,118 - Worker finished range: 6000000 to 8000000
+2024-12-07 23:17:39,148 - Worker finished range: 8000000 to 10000000
+2024-12-07 23:17:39,148 - Integration complete.
+2024-12-07 23:17:39,148 - Starting integration with 5 workers...
+2024-12-07 23:17:39,186 - Worker processing range: 0 to 2000000
+2024-12-07 23:17:39,187 - Worker processing range: 2000000 to 4000000
+2024-12-07 23:17:39,189 - Worker processing range: 4000000 to 6000000
+2024-12-07 23:17:39,191 - Worker processing range: 6000000 to 8000000
+2024-12-07 23:17:39,191 - Worker processing range: 8000000 to 10000000
+2024-12-07 23:17:39,336 - Worker finished range: 0 to 2000000
+2024-12-07 23:17:39,344 - Worker finished range: 6000000 to 8000000
+2024-12-07 23:17:39,350 - Worker finished range: 8000000 to 10000000
+2024-12-07 23:17:39,351 - Worker finished range: 4000000 to 6000000
+2024-12-07 23:17:39,363 - Worker finished range: 2000000 to 4000000
+2024-12-07 23:17:39,374 - Integration complete.
+2024-12-07 23:17:39,375 - Starting integration with 6 workers...
+2024-12-07 23:17:39,375 - Worker processing range: 0 to 1666666
+2024-12-07 23:17:39,381 - Worker processing range: 1666666 to 3333332
+2024-12-07 23:17:39,394 - Worker processing range: 3333332 to 4999998
+2024-12-07 23:17:39,400 - Worker processing range: 4999998 to 6666664
+2024-12-07 23:17:39,412 - Worker processing range: 6666664 to 8333330
+2024-12-07 23:17:39,412 - Worker processing range: 8333330 to 10000000
+2024-12-07 23:17:39,894 - Worker finished range: 0 to 1666666
+2024-12-07 23:17:39,949 - Worker finished range: 1666666 to 3333332
+2024-12-07 23:17:39,955 - Worker finished range: 3333332 to 4999998
+2024-12-07 23:17:39,976 - Worker finished range: 4999998 to 6666664
+2024-12-07 23:17:40,011 - Worker finished range: 8333330 to 10000000
+2024-12-07 23:17:40,040 - Worker finished range: 6666664 to 8333330
+2024-12-07 23:17:40,040 - Integration complete.
+2024-12-07 23:17:40,040 - Starting integration with 6 workers...
+2024-12-07 23:17:40,087 - Worker processing range: 0 to 1666666
+2024-12-07 23:17:40,091 - Worker processing range: 1666666 to 3333332
+2024-12-07 23:17:40,092 - Worker processing range: 3333332 to 4999998
+2024-12-07 23:17:40,093 - Worker processing range: 4999998 to 6666664
+2024-12-07 23:17:40,095 - Worker processing range: 6666664 to 8333330
+2024-12-07 23:17:40,098 - Worker processing range: 8333330 to 10000000
+2024-12-07 23:17:40,229 - Worker finished range: 1666666 to 3333332
+2024-12-07 23:17:40,235 - Worker finished range: 3333332 to 4999998
+2024-12-07 23:17:40,246 - Worker finished range: 0 to 1666666
+2024-12-07 23:17:40,250 - Worker finished range: 8333330 to 10000000
+2024-12-07 23:17:40,262 - Worker finished range: 6666664 to 8333330
+2024-12-07 23:17:40,270 - Worker finished range: 4999998 to 6666664
+2024-12-07 23:17:40,286 - Integration complete.
+2024-12-07 23:17:40,286 - Starting integration with 7 workers...
+2024-12-07 23:17:40,286 - Worker processing range: 0 to 1428571
+2024-12-07 23:17:40,293 - Worker processing range: 1428571 to 2857142
+2024-12-07 23:17:40,299 - Worker processing range: 2857142 to 4285713
+2024-12-07 23:17:40,305 - Worker processing range: 4285713 to 5714284
+2024-12-07 23:17:40,317 - Worker processing range: 5714284 to 7142855
+2024-12-07 23:17:40,355 - Worker processing range: 7142855 to 8571426
+2024-12-07 23:17:40,479 - Worker processing range: 8571426 to 10000000
+2024-12-07 23:17:40,759 - Worker finished range: 1428571 to 2857142
+2024-12-07 23:17:40,760 - Worker finished range: 2857142 to 4285713
+2024-12-07 23:17:40,849 - Worker finished range: 4285713 to 5714284
+2024-12-07 23:17:40,897 - Worker finished range: 0 to 1428571
+2024-12-07 23:17:40,928 - Worker finished range: 8571426 to 10000000
+2024-12-07 23:17:40,930 - Worker finished range: 5714284 to 7142855
+2024-12-07 23:17:40,956 - Worker finished range: 7142855 to 8571426
+2024-12-07 23:17:40,956 - Integration complete.
+2024-12-07 23:17:40,956 - Starting integration with 7 workers...
+2024-12-07 23:17:41,011 - Worker processing range: 0 to 1428571
+2024-12-07 23:17:41,014 - Worker processing range: 1428571 to 2857142
+2024-12-07 23:17:41,016 - Worker processing range: 2857142 to 4285713
+2024-12-07 23:17:41,017 - Worker processing range: 4285713 to 5714284
+2024-12-07 23:17:41,020 - Worker processing range: 5714284 to 7142855
+2024-12-07 23:17:41,024 - Worker processing range: 7142855 to 8571426
+2024-12-07 23:17:41,028 - Worker processing range: 8571426 to 10000000
+2024-12-07 23:17:41,183 - Worker finished range: 5714284 to 7142855
+2024-12-07 23:17:41,189 - Worker finished range: 1428571 to 2857142
+2024-12-07 23:17:41,200 - Worker finished range: 0 to 1428571
+2024-12-07 23:17:41,200 - Worker finished range: 2857142 to 4285713
+2024-12-07 23:17:41,201 - Worker finished range: 7142855 to 8571426
+2024-12-07 23:17:41,202 - Worker finished range: 8571426 to 10000000
+2024-12-07 23:17:41,217 - Worker finished range: 4285713 to 5714284
+2024-12-07 23:17:41,233 - Integration complete.
+2024-12-07 23:17:41,233 - Starting integration with 8 workers...
+2024-12-07 23:17:41,233 - Worker processing range: 0 to 1250000
+2024-12-07 23:17:41,240 - Worker processing range: 1250000 to 2500000
+2024-12-07 23:17:41,246 - Worker processing range: 2500000 to 3750000
+2024-12-07 23:17:41,252 - Worker processing range: 3750000 to 5000000
+2024-12-07 23:17:41,265 - Worker processing range: 5000000 to 6250000
+2024-12-07 23:17:41,307 - Worker processing range: 6250000 to 7500000
+2024-12-07 23:17:41,357 - Worker processing range: 7500000 to 8750000
+2024-12-07 23:17:41,445 - Worker processing range: 8750000 to 10000000
+2024-12-07 23:17:41,591 - Worker finished range: 0 to 1250000
+2024-12-07 23:17:41,794 - Worker finished range: 2500000 to 3750000
+2024-12-07 23:17:41,809 - Worker finished range: 5000000 to 6250000
+2024-12-07 23:17:41,839 - Worker finished range: 1250000 to 2500000
+2024-12-07 23:17:41,852 - Worker finished range: 3750000 to 5000000
+2024-12-07 23:17:41,862 - Worker finished range: 7500000 to 8750000
+2024-12-07 23:17:41,880 - Worker finished range: 6250000 to 7500000
+2024-12-07 23:17:41,899 - Worker finished range: 8750000 to 10000000
+2024-12-07 23:17:41,899 - Integration complete.
+2024-12-07 23:17:41,900 - Starting integration with 8 workers...
+2024-12-07 23:17:41,950 - Worker processing range: 0 to 1250000
+2024-12-07 23:17:41,951 - Worker processing range: 1250000 to 2500000
+2024-12-07 23:17:41,959 - Worker processing range: 2500000 to 3750000
+2024-12-07 23:17:41,963 - Worker processing range: 3750000 to 5000000
+2024-12-07 23:17:41,967 - Worker processing range: 5000000 to 6250000
+2024-12-07 23:17:41,973 - Worker processing range: 6250000 to 7500000
+2024-12-07 23:17:41,974 - Worker processing range: 7500000 to 8750000
+2024-12-07 23:17:41,977 - Worker processing range: 8750000 to 10000000
+2024-12-07 23:17:42,064 - Worker finished range: 3750000 to 5000000
+2024-12-07 23:17:42,079 - Worker finished range: 1250000 to 2500000
+2024-12-07 23:17:42,086 - Worker finished range: 2500000 to 3750000
+2024-12-07 23:17:42,087 - Worker finished range: 0 to 1250000
+2024-12-07 23:17:42,103 - Worker finished range: 5000000 to 6250000
+2024-12-07 23:17:42,103 - Worker finished range: 6250000 to 7500000
+2024-12-07 23:17:42,108 - Worker finished range: 7500000 to 8750000
+2024-12-07 23:17:42,112 - Worker finished range: 8750000 to 10000000
+2024-12-07 23:17:42,129 - Integration complete.
+2024-12-07 23:17:42,129 - Starting integration with 9 workers...
+2024-12-07 23:17:42,129 - Worker processing range: 0 to 1111111
+2024-12-07 23:17:42,129 - Worker processing range: 1111111 to 2222222
+2024-12-07 23:17:42,141 - Worker processing range: 2222222 to 3333333
+2024-12-07 23:17:42,141 - Worker processing range: 3333333 to 4444444
+2024-12-07 23:17:42,160 - Worker processing range: 4444444 to 5555555
+2024-12-07 23:17:42,185 - Worker processing range: 5555555 to 6666666
+2024-12-07 23:17:42,222 - Worker processing range: 6666666 to 7777777
+2024-12-07 23:17:42,327 - Worker processing range: 7777777 to 8888888
+2024-12-07 23:17:42,413 - Worker processing range: 8888888 to 10000000
+2024-12-07 23:17:42,452 - Worker finished range: 1111111 to 2222222
+2024-12-07 23:17:42,621 - Worker finished range: 2222222 to 3333333
+2024-12-07 23:17:42,656 - Worker finished range: 0 to 1111111
+2024-12-07 23:17:42,679 - Worker finished range: 3333333 to 4444444
+2024-12-07 23:17:42,722 - Worker finished range: 4444444 to 5555555
+2024-12-07 23:17:42,724 - Worker finished range: 5555555 to 6666666
+2024-12-07 23:17:42,733 - Worker finished range: 6666666 to 7777777
+2024-12-07 23:17:42,761 - Worker finished range: 7777777 to 8888888
+2024-12-07 23:17:42,801 - Worker finished range: 8888888 to 10000000
+2024-12-07 23:17:42,802 - Integration complete.
+2024-12-07 23:17:42,802 - Starting integration with 9 workers...
+2024-12-07 23:17:42,849 - Worker processing range: 0 to 1111111
+2024-12-07 23:17:42,854 - Worker processing range: 1111111 to 2222222
+2024-12-07 23:17:42,870 - Worker processing range: 2222222 to 3333333
+2024-12-07 23:17:42,870 - Worker processing range: 3333333 to 4444444
+2024-12-07 23:17:42,871 - Worker processing range: 4444444 to 5555555
+2024-12-07 23:17:42,873 - Worker processing range: 5555555 to 6666666
+2024-12-07 23:17:42,878 - Worker processing range: 6666666 to 7777777
+2024-12-07 23:17:42,879 - Worker processing range: 7777777 to 8888888
+2024-12-07 23:17:42,886 - Worker processing range: 8888888 to 10000000
+2024-12-07 23:17:42,972 - Worker finished range: 1111111 to 2222222
+2024-12-07 23:17:43,042 - Worker finished range: 4444444 to 5555555
+2024-12-07 23:17:43,042 - Worker finished range: 5555555 to 6666666
+2024-12-07 23:17:43,079 - Worker finished range: 0 to 1111111
+2024-12-07 23:17:43,080 - Worker finished range: 3333333 to 4444444
+2024-12-07 23:17:43,103 - Worker finished range: 7777777 to 8888888
+2024-12-07 23:17:43,104 - Worker finished range: 2222222 to 3333333
+2024-12-07 23:17:43,104 - Worker finished range: 6666666 to 7777777
+2024-12-07 23:17:43,149 - Worker finished range: 8888888 to 10000000
+2024-12-07 23:17:43,173 - Integration complete.
+2024-12-07 23:17:43,173 - Starting integration with 10 workers...
+2024-12-07 23:17:43,173 - Worker processing range: 0 to 1000000
+2024-12-07 23:17:43,180 - Worker processing range: 1000000 to 2000000
+2024-12-07 23:17:43,191 - Worker processing range: 2000000 to 3000000
+2024-12-07 23:17:43,203 - Worker processing range: 3000000 to 4000000
+2024-12-07 23:17:43,216 - Worker processing range: 4000000 to 5000000
+2024-12-07 23:17:43,235 - Worker processing range: 5000000 to 6000000
+2024-12-07 23:17:43,247 - Worker processing range: 6000000 to 7000000
+2024-12-07 23:17:43,266 - Worker processing range: 7000000 to 8000000
+2024-12-07 23:17:43,291 - Worker processing range: 8000000 to 9000000
+2024-12-07 23:17:43,316 - Worker processing range: 9000000 to 10000000
+2024-12-07 23:17:43,490 - Worker finished range: 4000000 to 5000000
+2024-12-07 23:17:43,499 - Worker finished range: 1000000 to 2000000
+2024-12-07 23:17:43,723 - Worker finished range: 3000000 to 4000000
+2024-12-07 23:17:43,724 - Worker finished range: 0 to 1000000
+2024-12-07 23:17:43,758 - Worker finished range: 2000000 to 3000000
+2024-12-07 23:17:43,821 - Worker finished range: 5000000 to 6000000
+2024-12-07 23:17:43,841 - Worker finished range: 6000000 to 7000000
+2024-12-07 23:17:43,851 - Worker finished range: 7000000 to 8000000
+2024-12-07 23:17:43,860 - Worker finished range: 8000000 to 9000000
+2024-12-07 23:17:43,875 - Worker finished range: 9000000 to 10000000
+2024-12-07 23:17:43,875 - Integration complete.
+2024-12-07 23:17:43,875 - Starting integration with 10 workers...
+2024-12-07 23:17:43,936 - Worker processing range: 0 to 1000000
+2024-12-07 23:17:43,943 - Worker processing range: 1000000 to 2000000
+2024-12-07 23:17:43,946 - Worker processing range: 2000000 to 3000000
+2024-12-07 23:17:43,948 - Worker processing range: 3000000 to 4000000
+2024-12-07 23:17:43,950 - Worker processing range: 4000000 to 5000000
+2024-12-07 23:17:43,956 - Worker processing range: 5000000 to 6000000
+2024-12-07 23:17:43,959 - Worker processing range: 6000000 to 7000000
+2024-12-07 23:17:43,968 - Worker processing range: 7000000 to 8000000
+2024-12-07 23:17:43,974 - Worker processing range: 8000000 to 9000000
+2024-12-07 23:17:43,981 - Worker processing range: 9000000 to 10000000
+2024-12-07 23:17:44,074 - Worker finished range: 0 to 1000000
+2024-12-07 23:17:44,080 - Worker finished range: 5000000 to 6000000
+2024-12-07 23:17:44,080 - Worker finished range: 1000000 to 2000000
+2024-12-07 23:17:44,085 - Worker finished range: 4000000 to 5000000
+2024-12-07 23:17:44,093 - Worker finished range: 7000000 to 8000000
+2024-12-07 23:17:44,096 - Worker finished range: 3000000 to 4000000
+2024-12-07 23:17:44,099 - Worker finished range: 2000000 to 3000000
+2024-12-07 23:17:44,106 - Worker finished range: 6000000 to 7000000
+2024-12-07 23:17:44,112 - Worker finished range: 9000000 to 10000000
+2024-12-07 23:17:44,114 - Worker finished range: 8000000 to 9000000
+2024-12-07 23:17:44,133 - Integration complete.
+2024-12-07 23:17:44,134 - Starting integration with 11 workers...
+2024-12-07 23:17:44,134 - Worker processing range: 0 to 909090
+2024-12-07 23:17:44,140 - Worker processing range: 909090 to 1818180
+2024-12-07 23:17:44,146 - Worker processing range: 1818180 to 2727270
+2024-12-07 23:17:44,165 - Worker processing range: 2727270 to 3636360
+2024-12-07 23:17:44,190 - Worker processing range: 3636360 to 4545450
+2024-12-07 23:17:44,197 - Worker processing range: 4545450 to 5454540
+2024-12-07 23:17:44,272 - Worker processing range: 5454540 to 6363630
+2024-12-07 23:17:44,278 - Worker processing range: 6363630 to 7272720
+2024-12-07 23:17:44,297 - Worker processing range: 7272720 to 8181810
+2024-12-07 23:17:44,371 - Worker processing range: 8181810 to 9090900
+2024-12-07 23:17:44,421 - Worker processing range: 9090900 to 10000000
+2024-12-07 23:17:44,564 - Worker finished range: 3636360 to 4545450
+2024-12-07 23:17:44,586 - Worker finished range: 0 to 909090
+2024-12-07 23:17:44,607 - Worker finished range: 2727270 to 3636360
+2024-12-07 23:17:44,659 - Worker finished range: 909090 to 1818180
+2024-12-07 23:17:44,687 - Worker finished range: 4545450 to 5454540
+2024-12-07 23:17:44,705 - Worker finished range: 6363630 to 7272720
+2024-12-07 23:17:44,716 - Worker finished range: 1818180 to 2727270
+2024-12-07 23:17:44,733 - Worker finished range: 7272720 to 8181810
+2024-12-07 23:17:44,783 - Worker finished range: 5454540 to 6363630
+2024-12-07 23:17:44,794 - Worker finished range: 8181810 to 9090900
+2024-12-07 23:17:44,800 - Worker finished range: 9090900 to 10000000
+2024-12-07 23:17:44,800 - Integration complete.
+2024-12-07 23:17:44,800 - Starting integration with 11 workers...
+2024-12-07 23:17:44,843 - Worker processing range: 0 to 909090
+2024-12-07 23:17:44,857 - Worker processing range: 909090 to 1818180
+2024-12-07 23:17:44,873 - Worker processing range: 1818180 to 2727270
+2024-12-07 23:17:44,879 - Worker processing range: 2727270 to 3636360
+2024-12-07 23:17:44,880 - Worker processing range: 3636360 to 4545450
+2024-12-07 23:17:44,886 - Worker processing range: 4545450 to 5454540
+2024-12-07 23:17:44,891 - Worker processing range: 5454540 to 6363630
+2024-12-07 23:17:44,891 - Worker processing range: 6363630 to 7272720
+2024-12-07 23:17:44,901 - Worker processing range: 7272720 to 8181810
+2024-12-07 23:17:44,907 - Worker processing range: 8181810 to 9090900
+2024-12-07 23:17:44,916 - Worker processing range: 9090900 to 10000000
+2024-12-07 23:17:44,963 - Worker finished range: 0 to 909090
+2024-12-07 23:17:44,972 - Worker finished range: 1818180 to 2727270
+2024-12-07 23:17:44,976 - Worker finished range: 909090 to 1818180
+2024-12-07 23:17:44,992 - Worker finished range: 3636360 to 4545450
+2024-12-07 23:17:45,003 - Worker finished range: 2727270 to 3636360
+2024-12-07 23:17:45,004 - Worker finished range: 5454540 to 6363630
+2024-12-07 23:17:45,011 - Worker finished range: 4545450 to 5454540
+2024-12-07 23:17:45,012 - Worker finished range: 8181810 to 9090900
+2024-12-07 23:17:45,014 - Worker finished range: 7272720 to 8181810
+2024-12-07 23:17:45,025 - Worker finished range: 9090900 to 10000000
+2024-12-07 23:17:45,026 - Worker finished range: 6363630 to 7272720
+2024-12-07 23:17:45,047 - Integration complete.
+2024-12-07 23:17:45,047 - Starting integration with 12 workers...
+2024-12-07 23:17:45,047 - Worker processing range: 0 to 833333
+2024-12-07 23:17:45,047 - Worker processing range: 833333 to 1666666
+2024-12-07 23:17:45,053 - Worker processing range: 1666666 to 2499999
+2024-12-07 23:17:45,066 - Worker processing range: 2499999 to 3333332
+2024-12-07 23:17:45,097 - Worker processing range: 3333332 to 4166665
+2024-12-07 23:17:45,159 - Worker processing range: 4166665 to 4999998
+2024-12-07 23:17:45,197 - Worker processing range: 4999998 to 5833331
+2024-12-07 23:17:45,203 - Worker processing range: 5833331 to 6666664
+2024-12-07 23:17:45,203 - Worker processing range: 6666664 to 7499997
+2024-12-07 23:17:45,212 - Worker finished range: 0 to 833333
+2024-12-07 23:17:45,290 - Worker processing range: 7499997 to 8333330
+2024-12-07 23:17:45,311 - Worker finished range: 833333 to 1666666
+2024-12-07 23:17:45,327 - Worker processing range: 8333330 to 9166663
+2024-12-07 23:17:45,327 - Worker processing range: 9166663 to 10000000
+2024-12-07 23:17:45,392 - Worker finished range: 1666666 to 2499999
+2024-12-07 23:17:45,415 - Worker finished range: 2499999 to 3333332
+2024-12-07 23:17:45,478 - Worker finished range: 5833331 to 6666664
+2024-12-07 23:17:45,487 - Worker finished range: 4166665 to 4999998
+2024-12-07 23:17:45,511 - Worker finished range: 4999998 to 5833331
+2024-12-07 23:17:45,561 - Worker finished range: 3333332 to 4166665
+2024-12-07 23:17:45,613 - Worker finished range: 6666664 to 7499997
+2024-12-07 23:17:45,656 - Worker finished range: 7499997 to 8333330
+2024-12-07 23:17:45,683 - Worker finished range: 9166663 to 10000000
+2024-12-07 23:17:45,709 - Worker finished range: 8333330 to 9166663
+2024-12-07 23:17:45,709 - Integration complete.
+2024-12-07 23:17:45,709 - Starting integration with 12 workers...
+2024-12-07 23:17:45,755 - Worker processing range: 0 to 833333
+2024-12-07 23:17:45,771 - Worker processing range: 833333 to 1666666
+2024-12-07 23:17:45,773 - Worker processing range: 1666666 to 2499999
+2024-12-07 23:17:45,778 - Worker processing range: 2499999 to 3333332
+2024-12-07 23:17:45,789 - Worker processing range: 3333332 to 4166665
+2024-12-07 23:17:45,794 - Worker processing range: 4166665 to 4999998
+2024-12-07 23:17:45,797 - Worker processing range: 4999998 to 5833331
+2024-12-07 23:17:45,799 - Worker processing range: 5833331 to 6666664
+2024-12-07 23:17:45,804 - Worker processing range: 6666664 to 7499997
+2024-12-07 23:17:45,816 - Worker processing range: 7499997 to 8333330
+2024-12-07 23:17:45,826 - Worker processing range: 8333330 to 9166663
+2024-12-07 23:17:45,855 - Worker processing range: 9166663 to 10000000
+2024-12-07 23:17:45,866 - Worker finished range: 1666666 to 2499999
+2024-12-07 23:17:45,910 - Worker finished range: 833333 to 1666666
+2024-12-07 23:17:45,914 - Worker finished range: 0 to 833333
+2024-12-07 23:17:45,914 - Worker finished range: 4166665 to 4999998
+2024-12-07 23:17:45,915 - Worker finished range: 2499999 to 3333332
+2024-12-07 23:17:45,917 - Worker finished range: 4999998 to 5833331
+2024-12-07 23:17:45,921 - Worker finished range: 3333332 to 4166665
+2024-12-07 23:17:45,927 - Worker finished range: 6666664 to 7499997
+2024-12-07 23:17:45,930 - Worker finished range: 8333330 to 9166663
+2024-12-07 23:17:45,934 - Worker finished range: 5833331 to 6666664
+2024-12-07 23:17:45,935 - Worker finished range: 7499997 to 8333330
+2024-12-07 23:17:45,938 - Worker finished range: 9166663 to 10000000
+2024-12-07 23:17:45,963 - Integration complete.
+2024-12-07 23:17:45,963 - Starting integration with 13 workers...
+2024-12-07 23:17:45,963 - Worker processing range: 0 to 769230
+2024-12-07 23:17:45,969 - Worker processing range: 769230 to 1538460
+2024-12-07 23:17:45,975 - Worker processing range: 1538460 to 2307690
+2024-12-07 23:17:45,975 - Worker processing range: 2307690 to 3076920
+2024-12-07 23:17:45,981 - Worker processing range: 3076920 to 3846150
+2024-12-07 23:17:45,994 - Worker processing range: 3846150 to 4615380
+2024-12-07 23:17:46,013 - Worker processing range: 4615380 to 5384610
+2024-12-07 23:17:46,025 - Worker processing range: 5384610 to 6153840
+2024-12-07 23:17:46,025 - Worker processing range: 6153840 to 6923070
+2024-12-07 23:17:46,025 - Worker processing range: 6923070 to 7692300
+2024-12-07 23:17:46,062 - Worker processing range: 7692300 to 8461530
+2024-12-07 23:17:46,068 - Worker finished range: 769230 to 1538460
+2024-12-07 23:17:46,106 - Worker processing range: 8461530 to 9230760
+2024-12-07 23:17:46,106 - Worker processing range: 9230760 to 10000000
+2024-12-07 23:17:46,117 - Worker finished range: 1538460 to 2307690
+2024-12-07 23:17:46,204 - Worker finished range: 0 to 769230
+2024-12-07 23:17:46,322 - Worker finished range: 2307690 to 3076920
+2024-12-07 23:17:46,490 - Worker finished range: 3846150 to 4615380
+2024-12-07 23:17:46,561 - Worker finished range: 3076920 to 3846150
+2024-12-07 23:17:46,630 - Worker finished range: 5384610 to 6153840
+2024-12-07 23:17:46,664 - Worker finished range: 7692300 to 8461530
+2024-12-07 23:17:46,736 - Worker finished range: 6923070 to 7692300
+2024-12-07 23:17:46,743 - Worker finished range: 4615380 to 5384610
+2024-12-07 23:17:46,749 - Worker finished range: 6153840 to 6923070
+2024-12-07 23:17:46,786 - Worker finished range: 8461530 to 9230760
+2024-12-07 23:17:46,854 - Worker finished range: 9230760 to 10000000
+2024-12-07 23:17:46,855 - Integration complete.
+2024-12-07 23:17:46,855 - Starting integration with 13 workers...
+2024-12-07 23:17:46,971 - Worker processing range: 0 to 769230
+2024-12-07 23:17:47,016 - Worker processing range: 769230 to 1538460
+2024-12-07 23:17:47,039 - Worker processing range: 1538460 to 2307690
+2024-12-07 23:17:47,084 - Worker processing range: 2307690 to 3076920
+2024-12-07 23:17:47,101 - Worker processing range: 3076920 to 3846150
+2024-12-07 23:17:47,147 - Worker processing range: 3846150 to 4615380
+2024-12-07 23:17:47,156 - Worker processing range: 4615380 to 5384610
+2024-12-07 23:17:47,206 - Worker processing range: 5384610 to 6153840
+2024-12-07 23:17:47,249 - Worker processing range: 6153840 to 6923070
+2024-12-07 23:17:47,249 - Worker processing range: 6923070 to 7692300
+2024-12-07 23:17:47,311 - Worker processing range: 7692300 to 8461530
+2024-12-07 23:17:47,314 - Worker processing range: 8461530 to 9230760
+2024-12-07 23:17:47,390 - Worker processing range: 9230760 to 10000000
+2024-12-07 23:17:47,494 - Worker finished range: 0 to 769230
+2024-12-07 23:17:47,502 - Worker finished range: 769230 to 1538460
+2024-12-07 23:17:47,510 - Worker finished range: 4615380 to 5384610
+2024-12-07 23:17:47,512 - Worker finished range: 2307690 to 3076920
+2024-12-07 23:17:47,525 - Worker finished range: 3076920 to 3846150
+2024-12-07 23:17:47,527 - Worker finished range: 1538460 to 2307690
+2024-12-07 23:17:47,531 - Worker finished range: 3846150 to 4615380
+2024-12-07 23:17:47,533 - Worker finished range: 6923070 to 7692300
+2024-12-07 23:17:47,534 - Worker finished range: 6153840 to 6923070
+2024-12-07 23:17:47,540 - Worker finished range: 8461530 to 9230760
+2024-12-07 23:17:47,544 - Worker finished range: 7692300 to 8461530
+2024-12-07 23:17:47,545 - Worker finished range: 5384610 to 6153840
+2024-12-07 23:17:47,550 - Worker finished range: 9230760 to 10000000
+2024-12-07 23:17:47,576 - Integration complete.
+2024-12-07 23:17:47,576 - Starting integration with 14 workers...
+2024-12-07 23:17:47,576 - Worker processing range: 0 to 714285
+2024-12-07 23:17:47,576 - Worker processing range: 714285 to 1428570
+2024-12-07 23:17:47,582 - Worker processing range: 1428570 to 2142855
+2024-12-07 23:17:47,601 - Worker processing range: 2142855 to 2857140
+2024-12-07 23:17:47,683 - Worker processing range: 2857140 to 3571425
+2024-12-07 23:17:47,691 - Worker processing range: 3571425 to 4285710
+2024-12-07 23:17:47,712 - Worker processing range: 4285710 to 4999995
+2024-12-07 23:17:47,742 - Worker finished range: 0 to 714285
+2024-12-07 23:17:47,779 - Worker processing range: 4999995 to 5714280
+2024-12-07 23:17:47,779 - Worker processing range: 5714280 to 6428565
+2024-12-07 23:17:47,840 - Worker finished range: 1428570 to 2142855
+2024-12-07 23:17:47,841 - Worker processing range: 6428565 to 7142850
+2024-12-07 23:17:47,861 - Worker finished range: 714285 to 1428570
+2024-12-07 23:17:47,861 - Worker processing range: 7142850 to 7857135
+2024-12-07 23:17:47,880 - Worker finished range: 3571425 to 4285710
+2024-12-07 23:17:47,891 - Worker processing range: 7857135 to 8571420
+2024-12-07 23:17:47,904 - Worker processing range: 8571420 to 9285705
+2024-12-07 23:17:47,922 - Worker finished range: 2142855 to 2857140
+2024-12-07 23:17:47,924 - Worker finished range: 2857140 to 3571425
+2024-12-07 23:17:47,925 - Worker finished range: 4285710 to 4999995
+2024-12-07 23:17:47,925 - Worker processing range: 9285705 to 10000000
+2024-12-07 23:17:48,030 - Worker finished range: 5714280 to 6428565
+2024-12-07 23:17:48,117 - Worker finished range: 4999995 to 5714280
+2024-12-07 23:17:48,148 - Worker finished range: 6428565 to 7142850
+2024-12-07 23:17:48,167 - Worker finished range: 7142850 to 7857135
+2024-12-07 23:17:48,249 - Worker finished range: 8571420 to 9285705
+2024-12-07 23:17:48,255 - Worker finished range: 7857135 to 8571420
+2024-12-07 23:17:48,275 - Worker finished range: 9285705 to 10000000
+2024-12-07 23:17:48,275 - Integration complete.
+2024-12-07 23:17:48,275 - Starting integration with 14 workers...
+2024-12-07 23:17:48,336 - Worker processing range: 0 to 714285
+2024-12-07 23:17:48,348 - Worker processing range: 714285 to 1428570
+2024-12-07 23:17:48,362 - Worker processing range: 1428570 to 2142855
+2024-12-07 23:17:48,368 - Worker processing range: 2142855 to 2857140
+2024-12-07 23:17:48,376 - Worker processing range: 2857140 to 3571425
+2024-12-07 23:17:48,378 - Worker processing range: 3571425 to 4285710
+2024-12-07 23:17:48,379 - Worker processing range: 4285710 to 4999995
+2024-12-07 23:17:48,387 - Worker processing range: 4999995 to 5714280
+2024-12-07 23:17:48,393 - Worker processing range: 5714280 to 6428565
+2024-12-07 23:17:48,403 - Worker processing range: 6428565 to 7142850
+2024-12-07 23:17:48,408 - Worker processing range: 7142850 to 7857135
+2024-12-07 23:17:48,431 - Worker processing range: 7857135 to 8571420
+2024-12-07 23:17:48,432 - Worker processing range: 8571420 to 9285705
+2024-12-07 23:17:48,436 - Worker processing range: 9285705 to 10000000
+2024-12-07 23:17:48,474 - Worker finished range: 0 to 714285
+2024-12-07 23:17:48,489 - Worker finished range: 714285 to 1428570
+2024-12-07 23:17:48,492 - Worker finished range: 4285710 to 4999995
+2024-12-07 23:17:48,494 - Worker finished range: 6428565 to 7142850
+2024-12-07 23:17:48,499 - Worker finished range: 2857140 to 3571425
+2024-12-07 23:17:48,504 - Worker finished range: 3571425 to 4285710
+2024-12-07 23:17:48,509 - Worker finished range: 2142855 to 2857140
+2024-12-07 23:17:48,511 - Worker finished range: 1428570 to 2142855
+2024-12-07 23:17:48,512 - Worker finished range: 7142850 to 7857135
+2024-12-07 23:17:48,513 - Worker finished range: 4999995 to 5714280
+2024-12-07 23:17:48,523 - Worker finished range: 5714280 to 6428565
+2024-12-07 23:17:48,524 - Worker finished range: 8571420 to 9285705
+2024-12-07 23:17:48,525 - Worker finished range: 9285705 to 10000000
+2024-12-07 23:17:48,526 - Worker finished range: 7857135 to 8571420
+2024-12-07 23:17:48,552 - Integration complete.
+2024-12-07 23:17:48,553 - Starting integration with 15 workers...
+2024-12-07 23:17:48,553 - Worker processing range: 0 to 666666
+2024-12-07 23:17:48,559 - Worker processing range: 666666 to 1333332
+2024-12-07 23:17:48,565 - Worker processing range: 1333332 to 1999998
+2024-12-07 23:17:48,572 - Worker processing range: 1999998 to 2666664
+2024-12-07 23:17:48,578 - Worker processing range: 2666664 to 3333330
+2024-12-07 23:17:48,603 - Worker processing range: 3333330 to 3999996
+2024-12-07 23:17:48,609 - Worker processing range: 3999996 to 4666662
+2024-12-07 23:17:48,652 - Worker processing range: 4666662 to 5333328
+2024-12-07 23:17:48,732 - Worker finished range: 1999998 to 2666664
+2024-12-07 23:17:48,733 - Worker processing range: 5333328 to 5999994
+2024-12-07 23:17:48,751 - Worker processing range: 5999994 to 6666660
+2024-12-07 23:17:48,769 - Worker finished range: 666666 to 1333332
+2024-12-07 23:17:48,800 - Worker finished range: 0 to 666666
+2024-12-07 23:17:48,848 - Worker finished range: 3333330 to 3999996
+2024-12-07 23:17:48,862 - Worker processing range: 6666660 to 7333326
+2024-12-07 23:17:48,894 - Worker processing range: 7333326 to 7999992
+2024-12-07 23:17:48,906 - Worker processing range: 7999992 to 8666658
+2024-12-07 23:17:48,913 - Worker processing range: 8666658 to 9333324
+2024-12-07 23:17:48,924 - Worker finished range: 4666662 to 5333328
+2024-12-07 23:17:48,936 - Worker finished range: 3999996 to 4666662
+2024-12-07 23:17:48,943 - Worker finished range: 5333328 to 5999994
+2024-12-07 23:17:48,948 - Worker finished range: 2666664 to 3333330
+2024-12-07 23:17:48,963 - Worker processing range: 9333324 to 10000000
+2024-12-07 23:17:48,968 - Worker finished range: 1333332 to 1999998
+2024-12-07 23:17:48,990 - Worker finished range: 5999994 to 6666660
+2024-12-07 23:17:49,142 - Worker finished range: 6666660 to 7333326
+2024-12-07 23:17:49,151 - Worker finished range: 7333326 to 7999992
+2024-12-07 23:17:49,154 - Worker finished range: 8666658 to 9333324
+2024-12-07 23:17:49,169 - Worker finished range: 7999992 to 8666658
+2024-12-07 23:17:49,214 - Worker finished range: 9333324 to 10000000
+2024-12-07 23:17:49,215 - Integration complete.
+2024-12-07 23:17:49,215 - Starting integration with 15 workers...
+2024-12-07 23:17:49,280 - Worker processing range: 0 to 666666
+2024-12-07 23:17:49,287 - Worker processing range: 666666 to 1333332
+2024-12-07 23:17:49,291 - Worker processing range: 1333332 to 1999998
+2024-12-07 23:17:49,298 - Worker processing range: 1999998 to 2666664
+2024-12-07 23:17:49,301 - Worker processing range: 2666664 to 3333330
+2024-12-07 23:17:49,302 - Worker processing range: 3333330 to 3999996
+2024-12-07 23:17:49,308 - Worker processing range: 3999996 to 4666662
+2024-12-07 23:17:49,308 - Worker processing range: 4666662 to 5333328
+2024-12-07 23:17:49,324 - Worker processing range: 5333328 to 5999994
+2024-12-07 23:17:49,334 - Worker processing range: 5999994 to 6666660
+2024-12-07 23:17:49,338 - Worker processing range: 6666660 to 7333326
+2024-12-07 23:17:49,339 - Worker processing range: 7333326 to 7999992
+2024-12-07 23:17:49,342 - Worker processing range: 7999992 to 8666658
+2024-12-07 23:17:49,362 - Worker processing range: 8666658 to 9333324
+2024-12-07 23:17:49,391 - Worker processing range: 9333324 to 10000000
+2024-12-07 23:17:49,397 - Worker finished range: 666666 to 1333332
+2024-12-07 23:17:49,405 - Worker finished range: 2666664 to 3333330
+2024-12-07 23:17:49,414 - Worker finished range: 0 to 666666
+2024-12-07 23:17:49,414 - Worker finished range: 1999998 to 2666664
+2024-12-07 23:17:49,427 - Worker finished range: 3999996 to 4666662
+2024-12-07 23:17:49,429 - Worker finished range: 1333332 to 1999998
+2024-12-07 23:17:49,432 - Worker finished range: 6666660 to 7333326
+2024-12-07 23:17:49,434 - Worker finished range: 4666662 to 5333328
+2024-12-07 23:17:49,437 - Worker finished range: 3333330 to 3999996
+2024-12-07 23:17:49,439 - Worker finished range: 7999992 to 8666658
+2024-12-07 23:17:49,441 - Worker finished range: 5999994 to 6666660
+2024-12-07 23:17:49,450 - Worker finished range: 5333328 to 5999994
+2024-12-07 23:17:49,452 - Worker finished range: 7333326 to 7999992
+2024-12-07 23:17:49,453 - Worker finished range: 8666658 to 9333324
+2024-12-07 23:17:49,464 - Worker finished range: 9333324 to 10000000
+2024-12-07 23:17:49,493 - Integration complete.
+2024-12-07 23:17:49,493 - Starting integration with 16 workers...
+2024-12-07 23:17:49,493 - Worker processing range: 0 to 625000
+2024-12-07 23:17:49,493 - Worker processing range: 625000 to 1250000
+2024-12-07 23:17:49,499 - Worker processing range: 1250000 to 1875000
+2024-12-07 23:17:49,499 - Worker processing range: 1875000 to 2500000
+2024-12-07 23:17:49,549 - Worker processing range: 2500000 to 3125000
+2024-12-07 23:17:49,586 - Worker processing range: 3125000 to 3750000
+2024-12-07 23:17:49,636 - Worker processing range: 3750000 to 4375000
+2024-12-07 23:17:49,680 - Worker processing range: 4375000 to 5000000
+2024-12-07 23:17:49,688 - Worker finished range: 1875000 to 2500000
+2024-12-07 23:17:49,757 - Worker finished range: 2500000 to 3125000
+2024-12-07 23:17:49,765 - Worker finished range: 3750000 to 4375000
+2024-12-07 23:17:49,768 - Worker finished range: 0 to 625000
+2024-12-07 23:17:49,777 - Worker finished range: 3125000 to 3750000
+2024-12-07 23:17:49,785 - Worker finished range: 1250000 to 1875000
+2024-12-07 23:17:49,798 - Worker processing range: 5000000 to 5625000
+2024-12-07 23:17:49,804 - Worker processing range: 5625000 to 6250000
+2024-12-07 23:17:49,805 - Worker finished range: 4375000 to 5000000
+2024-12-07 23:17:49,805 - Worker processing range: 6250000 to 6875000
+2024-12-07 23:17:49,814 - Worker finished range: 625000 to 1250000
+2024-12-07 23:17:49,833 - Worker processing range: 6875000 to 7500000
+2024-12-07 23:17:49,852 - Worker processing range: 7500000 to 8125000
+2024-12-07 23:17:49,863 - Worker processing range: 8125000 to 8750000
+2024-12-07 23:17:49,875 - Worker processing range: 8750000 to 9375000
+2024-12-07 23:17:49,881 - Worker processing range: 9375000 to 10000000
+2024-12-07 23:17:49,932 - Worker finished range: 5625000 to 6250000
+2024-12-07 23:17:49,932 - Worker finished range: 5000000 to 5625000
+2024-12-07 23:17:50,048 - Worker finished range: 7500000 to 8125000
+2024-12-07 23:17:50,066 - Worker finished range: 6875000 to 7500000
+2024-12-07 23:17:50,074 - Worker finished range: 8125000 to 8750000
+2024-12-07 23:17:50,104 - Worker finished range: 6250000 to 6875000
+2024-12-07 23:17:50,148 - Worker finished range: 8750000 to 9375000
+2024-12-07 23:17:50,153 - Worker finished range: 9375000 to 10000000
+2024-12-07 23:17:50,153 - Integration complete.
+2024-12-07 23:17:50,153 - Starting integration with 16 workers...
+2024-12-07 23:17:50,217 - Worker processing range: 0 to 625000
+2024-12-07 23:17:50,231 - Worker processing range: 625000 to 1250000
+2024-12-07 23:17:50,233 - Worker processing range: 1250000 to 1875000
+2024-12-07 23:17:50,236 - Worker processing range: 1875000 to 2500000
+2024-12-07 23:17:50,260 - Worker processing range: 2500000 to 3125000
+2024-12-07 23:17:50,260 - Worker processing range: 3125000 to 3750000
+2024-12-07 23:17:50,266 - Worker processing range: 3750000 to 4375000
+2024-12-07 23:17:50,268 - Worker processing range: 4375000 to 5000000
+2024-12-07 23:17:50,269 - Worker processing range: 5000000 to 5625000
+2024-12-07 23:17:50,273 - Worker processing range: 5625000 to 6250000
+2024-12-07 23:17:50,280 - Worker processing range: 6250000 to 6875000
+2024-12-07 23:17:50,281 - Worker processing range: 6875000 to 7500000
+2024-12-07 23:17:50,288 - Worker processing range: 7500000 to 8125000
+2024-12-07 23:17:50,288 - Worker processing range: 8125000 to 8750000
+2024-12-07 23:17:50,299 - Worker processing range: 8750000 to 9375000
+2024-12-07 23:17:50,302 - Worker processing range: 9375000 to 10000000
+2024-12-07 23:17:50,349 - Worker finished range: 0 to 625000
+2024-12-07 23:17:50,359 - Worker finished range: 3125000 to 3750000
+2024-12-07 23:17:50,363 - Worker finished range: 5000000 to 5625000
+2024-12-07 23:17:50,369 - Worker finished range: 625000 to 1250000
+2024-12-07 23:17:50,376 - Worker finished range: 4375000 to 5000000
+2024-12-07 23:17:50,377 - Worker finished range: 1250000 to 1875000
+2024-12-07 23:17:50,385 - Worker finished range: 6250000 to 6875000
+2024-12-07 23:17:50,385 - Worker finished range: 1875000 to 2500000
+2024-12-07 23:17:50,386 - Worker finished range: 3750000 to 4375000
+2024-12-07 23:17:50,387 - Worker finished range: 2500000 to 3125000
+2024-12-07 23:17:50,393 - Worker finished range: 5625000 to 6250000
+2024-12-07 23:17:50,395 - Worker finished range: 9375000 to 10000000
+2024-12-07 23:17:50,401 - Worker finished range: 7500000 to 8125000
+2024-12-07 23:17:50,403 - Worker finished range: 8125000 to 8750000
+2024-12-07 23:17:50,404 - Worker finished range: 8750000 to 9375000
+2024-12-07 23:17:50,406 - Worker finished range: 6875000 to 7500000
+2024-12-07 23:17:50,434 - Integration complete.
